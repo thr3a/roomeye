@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  temp: 1.5
+  humid: 1.5
+  hpa: 1.5
+
+two:
+  temp: 1.5
+  humid: 1.5
+  hpa: 1.5
